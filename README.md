@@ -1,0 +1,2 @@
+# atolyem
+Atölyem gizlilik politikası
